@@ -12,3 +12,11 @@
     "./iteration-3/interfaces.ts"
   ]
 }
+
+// {
+//   "compilerOptions": {
+//       "target": "es6",
+//       "module": "commonjs",
+//       "sourceMap": true
+//   }
+// }

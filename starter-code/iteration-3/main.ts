@@ -1,8 +1,15 @@
 // Add the reference to the interface
+import { TodoItem } from "./interfaces";
+import { Todo } from "./interfaces";
 
 // Create class TodoItem that implements the corresponding interface
+class TodoItem implements Todo {
 
+}
 // Create class TodoList that implements the corresponding interface
+class TodoList implements implements{
+
+}
 
 // Execution
 let task1 = new TodoItem('This is our first task');
